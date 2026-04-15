@@ -1,0 +1,15 @@
+# ~/.config/yazi/yazi.toml
+[opener]
+edit = [
+    { run = 'nvim "$@"', block = true, desc = "Editor", for = "unix" },
+]
+
+[preview]
+image_filter = "triangle"
+image_quality = 90
+tab_size = 2
+ueberzug_cell_width = 10
+ueberzug_cell_height = 20
+
+[manager]
+show_hidden = true
