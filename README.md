@@ -48,6 +48,21 @@
 - Waypaper
 
 ---
+```md
+---
+
+## ⭐ Support
+
+If you like this setup, consider starring the repo!
+
+---
+
+## 🎬 YouTube
+
+Check out my channel: **Manahu**  
+I showcase my setups and tutorials there.
+
+---
 
 ## 🚀 Installation
 
