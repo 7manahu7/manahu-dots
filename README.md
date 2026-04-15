@@ -6,7 +6,16 @@
 
 ## 🖥️ Preview
 
-![preview](your-screenshot-here)
+termusic, yazi and custom neofetch
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8d9ab5c6-3f55-4be2-bd10-7aeec9f21402" />
+
+custom fastfetch on startup, cmatrix and cava
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/99887ae4-66d1-480b-853d-92d6834268ce" />
+
+waypaper, pipes.sh and figlet showcase
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/70cd112a-5e4c-46d1-88a3-5e3b892fe39f" />
+
+
 
 ---
 
