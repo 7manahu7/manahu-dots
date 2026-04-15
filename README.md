@@ -12,8 +12,9 @@
 
 ## 🔥 Features
 
-- ⚡ Instant terminal on startup (custom logo + fastfetch)-- *you'll have to add your own png for the fastfetch logo.*
-  i'll show you how you can do that in my youtube channel named "manahu", where i showcase my rice and share new things.
+- ⚡ Instant terminal on startup (custom logo + fastfetch)
+- -- *you'll have to add your own png for the fastfetch logo.*
+      i'll show you how you can do that in my youtube channel named "manahu", where i showcase my rice and share         new things.
 - 🎨 Smooth animations with bezier curves
 - 🧠 Optimized workflow with keybinds
 - 📂 Terminal-based file management (yazi)
