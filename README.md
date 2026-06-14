@@ -7,7 +7,7 @@
 ## 🖥️ Preview
 
 ### 🎵 Terminal Music + cava + Neofetch
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8d9ab5c6-3f55-4be2-bd10-7aeec9f21402" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e272b340-adbd-475c-8fe1-e4f9e9df7f94" />
 
 ### ⚡ Startup (Fastfetch + Cmatrix + Cava)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/99887ae4-66d1-480b-853d-92d6834268ce" />
