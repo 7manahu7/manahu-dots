@@ -6,7 +6,7 @@
 
 ## 🖥️ Preview
 
-### 🎵 Terminal Music + cava + Neofetch
+### 〖 🖤 〗 monochrome theme
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e272b340-adbd-475c-8fe1-e4f9e9df7f94" />
 
 ### ⚡ Startup (Fastfetch + Cmatrix + Cava)
