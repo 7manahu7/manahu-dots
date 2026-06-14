@@ -29,6 +29,7 @@
 ### 🚀 space theme
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2883958-4974-4a98-a813-735c3a7c1204" />
 
+---
 
 ### custom rofi for each theme!!
 
