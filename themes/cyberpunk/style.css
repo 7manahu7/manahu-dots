@@ -1,0 +1,36 @@
+* {
+    font-family: JetBrainsMono Nerd Font;
+    font-size: 13px;
+}
+
+window#waybar {
+    background: #592041;
+    color: #F3BED6;
+}
+
+/* Workspaces */
+#workspaces button {
+    background: #CF6898;
+    color: #592041;
+    padding: 0 8px;
+}
+
+#workspaces button.active {
+    color: #250E41;
+    border-bottom: 4px solid #250E41;
+}
+
+/* Modules */
+#clock,
+#cpu,
+#memory,
+#network,
+#pulseaudio {
+    padding: 0 10px;
+    color: #c9d1d9;
+}
+
+/* Hover effect */
+#workspaces button:hover {
+    background: #592041;
+}
