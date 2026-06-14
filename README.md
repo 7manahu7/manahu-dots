@@ -9,18 +9,22 @@
 ### 〖 🖤 〗 monochrome theme
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e272b340-adbd-475c-8fe1-e4f9e9df7f94" />
 
-### ⚡ Startup (Fastfetch + Cmatrix + Cava)
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/99887ae4-66d1-480b-853d-92d6834268ce" />
+### ⚡ cityscape theme
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/01156176-05f3-4ffe-b75b-5fc57799b0f1" />
 
-### 🎨 Visual Tools (Waypaper + Pipes + Figlet)
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/70cd112a-5e4c-46d1-88a3-5e3b892fe39f" />
-
-### 🧠 Custom Rofi + Terminal Effects
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4fa4fac4-215f-452d-b714-008ef980142c" />
+### 🎨 cyberpunk theme
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8f7cd589-94c5-44f5-8b10-0f4bf69792a2" />
 
 
+###  ☁️ evening theme
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eba31e35-cad1-4856-b7d3-7e1c9b214431" />
 
----
+
+### 🌟 heaven theme
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7b0f653f-edaa-4395-84ee-c7be15de55b8" />
+
+### hello
+
 
 ## 🔥 Features
 
