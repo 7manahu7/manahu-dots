@@ -2,6 +2,8 @@
 
 > A fully customized Linux workflow built with Hyprland
 
+
+### Tiny Update: the updated repository of my rice will be called manahu-dotsV2
 ---
 
 ## 🖥️ Preview
